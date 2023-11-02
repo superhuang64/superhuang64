@@ -7,7 +7,7 @@ Web Developer and Designer
 I am a self-taught full-stack developer. I love photography and I like to build websites with good design!
 
 * 🌍  I'm based in Edinburgh, Scotland
-* 🖥️  See my portfolio at [My portfolio](http://super.com)
+* 🖥️  See my portfolio at
 * ✉️  You can contact me at [superhuang64@gmail.com](mailto:superhuang64@gmail.com)
 * 🚀  I'm currently working on [Pet Adoption APP](http://adoptme.com)
 * 🧠  I'm learning React
